@@ -56,7 +56,7 @@ Provide seasonal insights, recommendations, and forecasts on smartphones.
 Sustainable Agriculture Planning
 Analyze resource utilization and environmental impact across seasons.
 Support sustainable farming practices and efficient resource management.
-<img width="1940" height="795" alt="image" src="https://github.com/user-attachments/assets/fbd4ca1b-bb9b-4c4a-a5a8-7eb49a57e121" />
+
 
 
 
