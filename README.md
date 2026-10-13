@@ -31,7 +31,7 @@ Forecast production trends based on historical seasonal data.
 Real-Time Weather Integration
 Integrate real-time weather data such as rainfall, temperature, and humidity.
 Provide dynamic insights and recommendations for farmers.
-Crop Recommendation System
+Crop Recommendation System 
 Suggest suitable crops for specific seasons and environmental conditions.
 Help farmers maximize yield and profitability.
 Geospatial Analysis
